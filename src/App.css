@@ -1,0 +1,20 @@
+/* FONT */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+/* END FONT*/
+* {
+  font-family: 'Roboto', sans-serif;
+
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background: #1b1b1b;
+  background-image: radial-gradient(#b0b8b9 1px, transparent 0);
+  background-size: 40px 40px;
+  background-position: -19px -19px;
+
+  /* background: linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%); */
+}
